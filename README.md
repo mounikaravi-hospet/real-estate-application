@@ -1,14 +1,8 @@
-<<<<<<< HEAD
-# real-estate-application
-=======
-# WP-Project-4
+# A real estate trade websites for seller, buyer, and admin.
 
-A real estate trade websites for seller, buyer, and admin.
-
-## techinques
+## Technologies used
 - mysql
 - php
 - css
 - html
 - javascript
->>>>>>> a7446ed (first commit)
